@@ -1,0 +1,95 @@
+1.Projektstart
+      │
+      ▼
+Anforderungsanalyse
+(Was wird benötigt?)
+      │
+      ▼
+Ist-/Soll-Konzept
+      │
+      ▼
+Softwarearchitektur
+      │
+      ▼
+Datenbankentwurf
+(PostgreSQL)
+      │
+      ▼
+Backend entwickeln
+(Python + REST-API)
+      │
+      ▼
+Frontend entwickeln
+(HTML / CSS / JavaScript)
+      │
+      ▼
+Integration
+(Frontend + Backend + Datenbank)
+      │
+      ▼
+Testen und Fehlerbehebung
+      │
+      ▼
+Dokumentation
+      │
+      ▼
+Projektabschluss
+Anforderungsanalyse
+
+Was brauche ich?
+
+Anforderungen des Auftraggebers analysieren
+Lastenheft auswerten
+Entwicklungsumgebung vorbereiten
+Python
+Visual Studio Code
+PostgreSQL
+Git
+Linux
+HTML / CSS / JavaScript
+REST-API
+Testdaten
+
+2.Projektstrukturplan (PSP)
+Projekt
+│
+├── Planung
+│   ├── Anforderungen analysieren
+│   ├── Lastenheft
+│   └── Zeitplanung
+│
+├── Datenbank
+│   ├── Tabellen erstellen
+│   ├── Beziehungen
+│   └── PostgreSQL
+│
+├── Backend
+│   ├── Python
+│   ├── REST-API
+│   ├── Login
+│   ├── Benutzerverwaltung
+│   └── Transportaufträge
+│
+├── Frontend
+│   ├── HTML
+│   ├── CSS
+│   ├── JavaScript
+│   ├── Benutzeroberfläche
+│   └── Statusanzeige
+│
+├── Test
+│   ├── Funktionstest
+│   ├── Integrationstest
+│   └── Fehlerbehebung
+│
+└── Dokumentation
+    ├── Projektdokumentation
+    └── Git-Repository
+
+3.Bereich                                Inhalt
+  Idee                                   Webbasierte Steuerungssoftware für einen mobilen Lagerassistenten
+  Sprache                                Python, HTML, CSS, JavaScript
+  Datenbank                              PostgreSQL
+  Infrastruktur                          Linux, Visual Studio Code, Git
+  Schnittstelle                          REST-API
+  Dokumentation                          Projektdokumentation und Git
